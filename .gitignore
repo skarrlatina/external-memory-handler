@@ -1,0 +1,14 @@
+*.o
+*.exe
+*.dll
+
+bin/
+obj/
+Debug/
+Release/
+
+*.user
+*.suo
+.vs/
+
+.DS_Store
